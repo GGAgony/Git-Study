@@ -10,6 +10,8 @@ public class GitTest {
         System.out.println("测试一下2");
         System.out.println("测试一下3");
         System.out.println("推送啦");
+        System.out.println("拉送啦");
+
 
     }
 }
